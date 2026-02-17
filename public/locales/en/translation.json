@@ -1,0 +1,150 @@
+{
+  "common": {
+    "welcome": "Welcome to Tagaru Tech",
+    "noDataFound": "No data found for this livestock",
+    "invalidLiveStockId": "Invalid liveStockId"
+  },
+
+  "navigation": {
+    "sidebar": {
+      "liveStockInfo": "LiveStock Info",
+      "table": "Table",
+      "farmDetails": "Farm Details",
+      "geoFencing": "GeoFencing"
+    },
+    "settings": "Settings",
+    "profile": "Profile",
+    "language": "Language"
+  },
+
+  "livestock": {
+    "liveStock": "Live Stock",
+    "liveStockInfo": "LiveStock Info",
+    "animalData": {
+      "animal_id": "Animal ID",
+      "health_condition": "Health Condition",
+      "step_count": "Step Count",
+      "heart_rate": "Heart Rate",
+      "temperature": "Temperature",
+      "weight": "Weight",
+      "last_checkup_date": "Last Checkup Date"
+    }
+  },
+
+  "healthMetrics": {
+    "heartRate": "Heart Rate",
+    "temperature": "Temperature",
+    "weight": "Weight",
+    "stepCount": "Step Count"
+  },
+
+  "farm": {
+    "farmDetails": "Farm Details",
+    "geoFencing": "GeoFencing"
+  },
+
+  "table": {
+    "table": "Table",
+    "headers": {
+      "id": "ID",
+      "breed": "Breed",
+      "weight": "Weight",
+      "age": "Age",
+      "gender": "Gender",
+      "healthStatus": "Health Status",
+      "alerts": "Alerts",
+      "date": "Date"
+    }
+  },
+
+  "alerts": {
+    "highTemp": "High Temp",
+    "highHR": "High HR",
+    "lowSteps": "Low Steps",
+    "noAlerts": "No Alerts"
+  },
+
+  "buttons": {
+    "allGood": "All good",
+    "needsAttention": "Needs Attention"
+  },
+  "greeting": "Hello {{name}} !",
+  "sidebar": {
+    "livestockInfo": "LiveStock Info",
+    "table": "Table",
+    "farmDetails": "Farm Details",
+    "geofencing": "GeoFencing"
+  },
+  "farmDetails": {
+    "title": "Farm Details",
+    "ID": "ID",
+    "Farm_Name": "Farm Name",
+    "Owner": "Owner",
+    "Phone": "Phone",
+    "email": "Email",
+    "Size": "Size",
+    "Location": "Location",
+    "Established": "Established"
+  },
+  "farmManagement": {
+    "title": "Farm Management",
+    "bedding_type": "Bedding Type",
+    "bedding_change_frequency": "Bedding Change Frequency",
+    "ventilation_type": "Ventilation Type",
+    "ventilation_frequency": "Ventilation Frequency",
+    "cleaning_schedule": "Cleaning Schedule",
+    "pest_control_type": "Pest Control Type",
+    "pest_control_frequency": "Pest Control Frequency"
+  },
+  "farmManagementOptions": {
+    "bedding_type": {
+      "hay": "Hay",
+      "straw": "Straw",
+      "sand": "Sand",
+      "wood shavings": "Wood Shavings",
+      "rubber mats": "Rubber Mats"
+    },
+    "bedding_change_frequency": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "bi-weekly": "Bi-Weekly",
+      "monthly": "Monthly",
+      "as needed": "As Needed"
+    },
+    "ventilation_type": {
+      "natural": "Natural",
+      "mechanical": "Mechanical",
+      "mixed": "Mixed"
+    },
+    "ventilation_frequency": {
+      "continuous": "Continuous",
+      "periodic": "Periodic",
+      "manual": "Manual"
+    },
+    "cleaning_schedule": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "bi-weekly": "Bi-Weekly",
+      "monthly": "Monthly"
+    },
+    "pest_control_type": {
+      "pesticide": "Pesticide",
+      "biological": "Biological",
+      "mechanical": "Mechanical",
+      "none": "None"
+    },
+    "pest_control_frequency": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "seasonally": "Seasonally"
+    }
+  },
+  "farmPhoto": {
+    "title": "Farm Photo"
+  },
+  "farmLocation": {
+    "title": "Farm Location"
+  }
+}
+
