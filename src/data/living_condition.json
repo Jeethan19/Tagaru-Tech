@@ -1,0 +1,67 @@
+[
+  {
+    "temperature_range": 20.08,
+    "humidity_level": 98.27,
+    "time": "1:00"
+  },
+  {
+    "temperature_range": 21.15,
+    "humidity_level": 92.42,
+    "time": "2:00"
+  },
+  {
+    "temperature_range": 22.34,
+    "humidity_level": 95.18,
+    "time": "3:00"
+  },
+  {
+    "temperature_range": 23.75,
+    "humidity_level": 84.63,
+    "time": "4:00"
+  },
+  {
+    "temperature_range": 25.12,
+    "humidity_level": 88.77,
+    "time": "5:00"
+  },
+  {
+    "temperature_range": 26.89,
+    "humidity_level": 80.45,
+    "time": "6:00"
+  },
+  {
+    "temperature_range": 28.43,
+    "humidity_level": 89.32,
+    "time": "7:00"
+  },
+  {
+    "temperature_range": 30.21,
+    "humidity_level": 86.18,
+    "time": "8:00"
+  },
+  {
+    "temperature_range": 31.56,
+    "humidity_level": 78.94,
+    "time": "9:00"
+  },
+  {
+    "temperature_range": 32.78,
+    "humidity_level": 85.27,
+    "time": "10:00"
+  },
+  {
+    "temperature_range": 33.45,
+    "humidity_level": 72.83,
+    "time": "11:00"
+  },
+  {
+    "temperature_range": 33.92,
+    "humidity_level": 68.45,
+    "time": "12:00"
+  },
+  {
+    "temperature_range": 33.67,
+    "humidity_level": 73.18,
+    "time": "13:00"
+  }
+]

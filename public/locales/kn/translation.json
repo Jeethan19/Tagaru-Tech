@@ -1,0 +1,130 @@
+{
+  "Farm Details": "ಫಾರ್ಮ್ ವಿವರಗಳು",
+  "liveStock": "ಮೃಗೋಪಚಾರ",
+  "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "profile": "ಪ್ರೊಫೈಲ್",
+  "language": "ಭಾಷೆ",
+  "welcome": "ಟಗರು ಟೆಕ್‌ಗೆ ಸ್ವಾಗತ",
+  "invalidLiveStockId": "ಅಮಾನ್ಯ liveStockId",
+  "noDataFound": "ಈ ಪ್ರಾಣಿಗೆ ಡೇಟಾ ಕಂಡುಬರಲಿಲ್ಲ",
+  "heartRate": "ಹೃದಯದ ದರ",
+  "temperature": "ತಾಪಮಾನ",
+  "weight": "ತೂಕ",
+  "stepCount": "ಹೆಜ್ಜೆಗಳ ಸಂಖ್ಯೆ",
+  "table": "ಪಟ್ಟಿ",
+  "FarmDetails": "ಖೇತ ವಿವರಗಳು",
+  "geoFencing": "ಜಿಯೋಫೆನ್ಸಿಂಗ್",
+  "Bannur":"ಬನ್ನೂರು",
+  
+  "animalData": {
+    "animal_id": "ಪ್ರಾಣಿ ಐಡಿ",
+    "health_condition": "ಆರೋಗ್ಯ ಸ್ಥಿತಿ",
+    "step_count": "ಹೆಜ್ಜೆಗಳ ಸಂಖ್ಯೆ",
+    "heart_rate": "ಹೃದಯದ ದರ",
+    "temperature": "ತಾಪಮಾನ",
+    "weight": "ತೂಕ",
+    "last_checkup_date": "ಕೊನೆಯ ತಪಾಸಣೆಯ ದಿನಾಂಕ"
+  },
+  
+  "tableHeaders": {
+    "id": "ಐಡಿ",
+    "breed": "ವಂಶ",
+    "weight": "ತೂಕ",
+    "age": "ವಯಸ್ಸು",
+    "gender": "ಲಿಂಗ",
+    "healthStatus": "ಆರೋಗ್ಯ ಸ್ಥಿತಿ",
+    "alerts": "ಎಚ್ಚರಿಕೆಗಳು",
+    "date": "ದಿನಾಂಕ"
+  },
+  
+  "buttons": {
+    "allGood": "ಎಲ್ಲಾ ಚೆನ್ನಾಗಿದೆ",
+    "needsAttention": "ಯೋಗ್ಯತೆಯ ಅಗತ್ಯವಿದೆ"
+  },
+  
+  "Sidebar": {
+    "liveStockInfo": "ಪ್ರಾಣಿಗಳ ಮಾಹಿತಿ",
+    "Table": "ಟೇಬಲ್",
+    "FarmDetails": "ಫಾರ್ಮ್ ವಿವರಗಳು",
+    "GeoFencing": "ಜಿಯೋಫೆನ್ಸಿಂಗ್"
+  },
+  "greeting": "ಹಲೋ {{name}} !",
+  "sidebar": {
+    "livestockInfo": "ಜಾನುವಾರು ಮಾಹಿತಿ",
+    "table": "ಕೋಷ್ಟಕ",
+    "farmDetails": "ತೋಟದ ವಿವರಗಳು",
+    "geofencing": "ಜಿಯೋ ಫೆನ್ಸಿಂಗ್"
+  },
+  "farmDetails": {
+    "title": "ತೋಟದ ವಿವರಗಳು",
+    "ID": "ಐಡಿ",
+    "Farm_Name": "ತೋಟದ ಹೆಸರು",
+    "Owner": "ಮಾಲೀಕರು",
+    "Phone": "ದೂರವಾಣಿ",
+    "email": "ಇಮೇಲ್",
+    "Size": "ಗಾತ್ರ",
+    "Location": "ಸ್ಥಳ",
+    "Established": "ಆರಂಭವಾದ ವರ್ಷ"
+  },
+  "farmManagement": {
+    "title": "ತೋಟ ನಿರ್ವಹಣೆ",
+    "bedding_type": "ಹಾಸಿಗೆ ಪ್ರಕಾರ",
+    "bedding_change_frequency": "ಹಾಸಿಗೆ ಬದಲಾವಣೆ ಆದೃತ್ಯತೆ",
+    "ventilation_type": "ಗಾಳಿ ಹೊರೆ ಪ್ರಕಾರ",
+    "ventilation_frequency": "ಗಾಳಿ ಹೊರೆ ಆದೃತ್ಯತೆ",
+    "cleaning_schedule": "ಕ್ಲೀನಿಂಗ್ ವೇಳಾಪಟ್ಟಿ",
+    "pest_control_type": "ಹುಲು ಹಿಡಿಯುವ ವಿಧಾನ",
+    "pest_control_frequency": "ಹುಲು ಹಿಡಿಯುವ ಆದೃತ್ಯತೆ"
+  },
+  "farmManagementOptions": {
+    "bedding_type": {
+      "hay": "ಹೇ",
+      "straw": "ಕೊರಡು ಹುಲ್ಲು",
+      "sand": "ಮಣ್ಣು",
+      "wood shavings": "ಮರದ ತುಣುಕುಗಳು",
+      "rubber mats": "ರಬ್ಬರ್ ಚಾಪುಗಳು"
+    },
+    "bedding_change_frequency": {
+      "daily": "ದೈನಂದಿನ",
+      "weekly": "ವಾರಂವಾರ",
+      "bi-weekly": "ಪ್ರತಿ ಎರಡು ವಾರ",
+      "monthly": "ತಿಂಗಳಿಗೆ ერთხელ",
+      "as needed": "ಅವಶ್ಯಕತೆ ಇದ್ದಾಗ"
+    },
+    "ventilation_type": {
+      "natural": "ಸ್ವಾಭಾವಿಕ",
+      "mechanical": "ಯಂತ್ರಚಾಲಿತ",
+      "mixed": "ಮಿಶ್ರಿತ"
+    },
+    "ventilation_frequency": {
+      "continuous": "ನಿರಂತರ",
+      "periodic": "ಆವೃತ್ತಿಯ",
+      "manual": "ಕೈಚಲಿತ"
+    },
+    "cleaning_schedule": {
+      "daily": "ದೈನಂದಿನ",
+      "weekly": "ವಾರಂವಾರ",
+      "bi-weekly": "ಪ್ರತಿ ಎರಡು ವಾರ",
+      "monthly": "ತಿಂಗಳಿಗೆ ಒಂದು ಬಾರಿ"
+    },
+    "pest_control_type": {
+      "pesticide": "ಕೀಟನಾಶಕ",
+      "biological": "ಜೈವಿಕ",
+      "mechanical": "ಯಾಂತ್ರಿಕ",
+      "none": "ಯಾವುದೂ ಇಲ್ಲ"
+    },
+    "pest_control_frequency": {
+      "daily": "ದೈನಂದಿನ",
+      "weekly": "ವಾರಂವಾರ",
+      "monthly": "ತಿಂಗಳಿಗೆ ಒಂದು ಬಾರಿ",
+      "seasonally": "ಕಾಲಾನುಗುಣವಾಗಿ"
+    }
+  },
+  "farmPhoto": {
+    "title": "ತೋಟದ ಚಿತ್ರ"
+  },
+  "farmLocation": {
+    "title": "ತೋಟದ ಸ್ಥಳ"
+  }
+}
+

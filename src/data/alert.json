@@ -1,0 +1,107 @@
+[
+    {
+        "animal_id": 1,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "abnormal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 2,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "normal",
+        "activity_alert": "recovering",
+        "vaccination_alert": "not completed"
+    },
+    {
+        "animal_id": 3,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "normal",
+        "activity_alert": "recovering",
+        "vaccination_alert": "not completed"
+    },
+    {
+        "animal_id": 4,
+        "temperature_alret": "high temperature",
+        "heart_rate_alert": "abnormal",
+        "activity_alert": "recovering",
+        "vaccination_alert": "not completed"
+    },
+    {
+        "animal_id": 5,
+        "temperature_alret": "low temperature",
+        "heart_rate_alert": "normal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 6,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "normal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 7,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "normal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 8,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "abnormal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 9,
+        "temperature_alret": "high temperature",
+        "heart_rate_alert": "abnormal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 10,
+        "temperature_alret": "high temperature",
+        "heart_rate_alert": "normal",
+        "activity_alert": "inactive",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 11,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "normal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 12,
+        "temperature_alret": "high temperature",
+        "heart_rate_alert": "normal",
+        "activity_alert": "recovering",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 13,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "abnormal",
+        "activity_alert": "inactive",
+        "vaccination_alert": "completed"
+    },
+    {
+        "animal_id": 14,
+        "temperature_alret": "normal",
+        "heart_rate_alert": "abnormal",
+        "activity_alert": "active",
+        "vaccination_alert": "not completed"
+    },
+    {
+        "animal_id": 15,
+        "temperature_alret": "high temperature",
+        "heart_rate_alert": "normal",
+        "activity_alert": "active",
+        "vaccination_alert": "completed"
+    }
+]
